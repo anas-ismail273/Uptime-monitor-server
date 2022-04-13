@@ -38,3 +38,5 @@ A dockerized uptime monitoring RESTful API server that allows authenticated user
 - CRUD operations on the Reports
     - (GET) `/api/reports` to get all of your reports
     - (POST) `/api/reports/tags` to get all of your reports having the same specified tag(s)
+
+#### `Still working on some features`
