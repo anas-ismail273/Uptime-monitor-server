@@ -13,7 +13,7 @@ A dockerized uptime monitoring RESTful API server that allows authenticated user
 
 ### Installing locally
 - `npm install`
-- Create a new database named bostaDB on MongoDB and change the `.env` file with the new connections details, (OR you can work with the current database)
+- Create a new database on MongoDB and change the `.env` file with the new connections details, (OR you can work with the current database)
 -  `npm run start`
 
 ### Running the Docker image
